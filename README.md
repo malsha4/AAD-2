@@ -73,5 +73,7 @@ A microservice-based Smart Parking Management System built with Spring Boot, Spr
 
 - ![Eureka Dashboard](https://github.com/malsha4/AAD-2/blob/main/docs/screenshots/Screenshot%20(147).png)
 
+- ![Eureka Dashboard](https://github.com/malsha4/AAD-2/blob/main/docs/screenshots/Screenshot%20(148).png)
 
+-  ![Eureka Dashboard](https://github.com/malsha4/AAD-2/blob/main/docs/screenshots/Screenshot%20(149).png)
 
